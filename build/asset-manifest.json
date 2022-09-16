@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-music-tranding/static/css/main.e96bc9b8.css",
+    "main.js": "/my-music-tranding/static/js/main.a76f7117.js",
+    "static/js/787.7f68d02e.chunk.js": "/my-music-tranding/static/js/787.7f68d02e.chunk.js",
+    "index.html": "/my-music-tranding/index.html",
+    "main.e96bc9b8.css.map": "/my-music-tranding/static/css/main.e96bc9b8.css.map",
+    "main.a76f7117.js.map": "/my-music-tranding/static/js/main.a76f7117.js.map",
+    "787.7f68d02e.chunk.js.map": "/my-music-tranding/static/js/787.7f68d02e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e96bc9b8.css",
+    "static/js/main.a76f7117.js"
+  ]
+}
