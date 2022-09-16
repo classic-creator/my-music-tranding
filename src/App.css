@@ -1,0 +1,22 @@
+.main{
+  margin: 10px 10px;
+}
+.midia-scroller{
+  display: grid;
+  gap: 3px;
+  grid-auto-flow: column;
+  grid-auto-columns: 25%;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+}
+.midia-element{
+  display: grid;
+  grid-template-rows: min-content;
+  gap: 3px;
+
+}
+ .midia-element img{
+  height: 200px;
+  border-radius: 5px;
+  
+ }
